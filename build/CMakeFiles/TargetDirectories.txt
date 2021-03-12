@@ -1,0 +1,8 @@
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/CMakeFiles/rebuild_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/CMakeFiles/edit_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/CMakeFiles/program.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/_deps/dlib-build/CMakeFiles/rebuild_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/_deps/dlib-build/CMakeFiles/edit_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/_deps/dlib-build/dlib/CMakeFiles/edit_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/_deps/dlib-build/dlib/CMakeFiles/rebuild_cache.dir
+/home/ariasjoshua/Desktop/Projects/BlinkPlease/build/_deps/dlib-build/dlib/CMakeFiles/dlib.dir
